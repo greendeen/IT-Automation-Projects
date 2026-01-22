@@ -27,3 +27,6 @@ What I did: Configured an AWS S3 bucket and developed a custom IAM JSON Policy t
 Skills Demonstrated: AWS, Cloud Computing, IAM, JSON, Cybersecurity.
 
 Key File: s3_iam_policy.json
+
+🤩About Me
+I am a proactive IT professional focused on bridging the gap between development and security. I am dedicated to mastering the modern tech stack and am eager to apply these skills within a forward-thinking DevOps or IT support team.
